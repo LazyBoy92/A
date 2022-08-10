@@ -1,5 +1,5 @@
 package A
 
-func AU() string {
-	return "AAAA"
+func AU() int {
+	return 220803
 }
